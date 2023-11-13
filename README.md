@@ -112,7 +112,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 4 -->
     <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h3 align="center" style="margin: 0; line-height: 25px;">Cercle Web (Vue)</h3>
+    <h5 align="center" style="margin: 0; line-height: 25px;">Cercle Web (Vue)</h5>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://circl3.netlify.app/">
@@ -127,7 +127,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 5 -->
 <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h3 align="center" style="margin: 0; line-height: 25px;">Doyt App (Vue)</h3>
+    <h5 align="center" style="margin: 0; line-height: 25px;">Doyt App (Vue)</h5>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://doyt.netlify.app/">
@@ -141,7 +141,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 6 -->
     <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h3 align="center" style="margin: 0; line-height: 25px;">Anomalie Web App</h3>
+    <h5 align="center" style="margin: 0; line-height: 25px;">Anomalie Web App</h5>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
 <a href="https://trakex.netlify.app/">
