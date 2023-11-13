@@ -67,7 +67,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 1 -->
     <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h3 style="margin: 0; line-height: 25px;">StarWars Starship WebApp</h3>
+    <h3 style="margin: 0; line-height: 25px; font-color: #000;">StarWars Starship WebApp</h3>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://sw-sprint8.vercel.app/">
@@ -75,7 +75,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     </a>
   </div>
   <div style="height: 25px; width: 100%; text-align: center;">
-    <a href="https://github.com/0xNordian/sprint8">Repository</a> | 
+    <a style="text-decoration: none;" href="https://github.com/0xNordian/sprint8">Repository</a> | 
     <a href="https://sw-sprint8.vercel.app/">Live Demo</a>
   </div>
 </td>
