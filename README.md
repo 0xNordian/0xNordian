@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm 0xNordian (Néstor Torres)
 
 I'm a Junior Developer passionate about front-end and back-end technologies, aiming to delve into AI and blockchain in the future.
 
@@ -8,7 +8,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
 - 👯 I’m looking to collaborate on **open source projects** and **innovative web applications**.
 - 🤔 I’m seeking help with **clean, scalable code** and **advanced JavaScript concepts**.
 - 💬 Ask me about **React**, **Vue**, and **web development best practices**.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [management@deverso.io](mailto:management@deverso.io)
 
 ## My Skill Set 💻
 
@@ -43,9 +43,9 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with Me 🌐
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/torres-nestor/)
 - Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
 - Personal Website: [yourwebsite.com](http://yourwebsite.com)
 
 ---
-<sub>Last updated by [your-github-username](https://github.com/your-github-username) on `dd/mm/yyyy`.</sub>
+<sub>Last updated by [oxNordian](https://github.com/0xNordian) on `13/11/2023`.</sub>
