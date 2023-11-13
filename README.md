@@ -74,7 +74,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
       <img src="./assets/sw.jpeg" alt="StarWars Starship Project" style="width: 100%; height: 100%; object-fit: cover; display: block;">
     </a>
   </div>
-  <div style="height: 25px; text-align: center;">
+  <div style="height: 25px; width: 100%; text-align: center;">
     <a href="https://github.com/0xNordian/sprint8">Repository</a> | 
     <a href="https://sw-sprint8.vercel.app/">Live Demo</a>
   </div>
@@ -82,7 +82,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 2 -->
 <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h3 style="margin: 0; line-height: 25px;">Jump2Digital Hackaton (Accepted)</h3>
+    <h3 style="margin: 0; line-height: 25px;">Jump2Digital Hackaton</h3>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://wubba.netlify.app/">
@@ -127,7 +127,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 5 -->
 <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h3 style="margin: 0; line-height: 25px;">Jump2Digital Hackaton (Accepted)</h3>
+    <h3 style="margin: 0; line-height: 25px;">Jump2Digital Hackaton</h3>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://wubba.netlify.app/">
