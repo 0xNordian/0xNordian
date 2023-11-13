@@ -56,42 +56,80 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
 <!-- - [Your latest blog post title](link-to-post)
 - [Another blog post title](link-to-post) -->
 <!-- BLOG-POST-LIST:END -->
-
 ## Project Gallery 🌟
 
-### Project 1: [Project Title](Link to Project Repo)
-[![Project 1 Screenshot](./assets/sw.jpeg)](Link to Deployed App)
-Description of Project 1. [Repository](Link to Project Repo) | [Live Demo](Link to Deployed App)
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td width="33%" valign="top">
+      <h3>StarWars Starship WebApp</h3>
+      <a href="https://sw-sprint8.vercel.app/">
+        <img src="./assets/sw.jpeg" alt="StarWars Starship Project" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      <br>
+      <a href="https://github.com/0xNordian/sprint8">Repository</a> | 
+      <a href="https://sw-sprint8.vercel.app/">Live Demo</a>
+    </td>
+    <!-- Project 2 -->
+    <td width="33%" valign="top">
+      <h3>Jump2Digital Hackaton (Accepted)</h3>
+      <a href="https://wubba.netlify.app/">
+        <img src="./assets/rickandmorty.png" alt="Jump2Digital Hackathon Web" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      <br>
+      <a href="https://github.com/0xNordian/rickyandmorty-j2d-hackaton">Repository</a> | 
+      <a href="https://wubba.netlify.app/">Live Demo</a>
+    </td>
+    <!-- Project 3 -->
+    <td width="33%" valign="top">
+      <h3>Anomalie Web App</h3>
+      <a href="https://anomalie.vercel.app/">
+        <img src="./assets/anomalie-app.png" alt="Anomalie App" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      <br>
+      <a href="https://github.com/0xNordian/anomalie-app-supabase">Repository</a> | 
+      <a href="https://anomalie.vercel.app/">Live Demo</a>
+    </td>
+  </tr>
+    <tr>
+    <!-- Project 1 -->
+    <td width="33%" valign="top">
+      <h3>StarWars Starship WebApp</h3>
+      <a href="https://sw-sprint8.vercel.app/">
+        <img src="./assets/sw.jpeg" alt="Project 1 Screenshot" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      </a>
+      <br>
+      <a href="https://github.com/0xNordian/sprint8">Repository</a> | 
+      <a href="https://sw-sprint8.vercel.app/">Live Demo</a>
+    </td>
+    <!-- Project 2 -->
+    <td width="33%" valign="top">
+      <h3>Project 2 Title</h3>
+      <a href="Link to Deployed App">
+        <img src="path/to/screenshot2.png" alt="Project 2 Screenshot" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      </a>
+      <br>
+      <a href="Link to Project Repo">Repository</a> | 
+      <a href="Link to Deployed App">Live Demo</a>
+    </td>
+    <!-- Project 3 -->
+    <td width="33%" valign="top">
+      <h3>Project 3 Title</h3>
+      <a href="Link to Deployed App">
+        <img src="path/to/screenshot3.png" alt="Project 3 Screenshot" style="width: 100%; height: 100%; object-fit: cover;">
+      </a>
+      </a>
+      <br>
+      <a href="Link to Project Repo">Repository</a> | 
+      <a href="Link to Deployed App">Live Demo</a>
+    </td>
+  </tr>
 
----
+  <!-- Add more rows for additional projects -->
+</table>
 
-### Project 2: [Project Title](Link to Project Repo)
-[![Project 2 Screenshot](path/to/screenshot2.png)](Link to Deployed App)
-Description of Project 2. [Repository](Link to Project Repo) | [Live Demo](Link to Deployed App)
-
----
-
-### Project 3: [Project Title](Link to Project Repo)
-[![Project 3 Screenshot](path/to/screenshot3.png)](Link to Deployed App)
-Description of Project 3. [Repository](Link to Project Repo) | [Live Demo](Link to Deployed App)
-
----
-
-### Project 4: [Project Title](Link to Project Repo)
-[![Project 4 Screenshot](path/to/screenshot4.png)](Link to Deployed App)
-Description of Project 4. [Repository](Link to Project Repo) | [Live Demo](Link to Deployed App)
-
----
-
-### Project 5: [Project Title](Link to Project Repo)
-[![Project 5 Screenshot](path/to/screenshot5.png)](Link to Deployed App)
-Description of Project 5. [Repository](Link to Project Repo) | [Live Demo](Link to Deployed App)
-
----
-
-### Project 6: [Project Title](Link to Project Repo)
-[![Project 6 Screenshot](path/to/screenshot6.png)](Link to Deployed App)
-Description of Project 6. [Repository](Link to Project Repo) | [Live Demo](Link to Deployed App)
 
 
 ## Connect with Me 🌐
@@ -110,3 +148,4 @@ Description of Project 6. [Repository](Link to Project Repo) | [Live Demo](Link 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNordian&theme=radical) -->
 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xNordian&repo=rickyandmorty-j2d-hackaton)](https://github.com/0xNordian/rickyandmorty-j2d-hackaton) -->
