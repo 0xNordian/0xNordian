@@ -67,7 +67,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 1 -->
     <td width="33%" valign="top" style="height: 300px;">
   <div align="center" style="height: 25px; margin-bottom: 7px">
-    <h3 style="margin: 0; line-height: 25px;">StarWars Starships (React)</h3>
+    <h5 style="margin: 0; line-height: 25px;">StarWars Starships (React)</h5>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://sw-sprint8.vercel.app/">
@@ -82,7 +82,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 2 -->
 <td width="33%" valign="top" style="height: 300px;">
   <div align="center" style="height: 25px; margin-bottom: 7px">
-    <h3 style="margin: 0; line-height: 25px;">Jump2Digital Hackathon (React)</h3>
+    <h5 style="margin: 0; line-height: 25px;">Jump2Digital Hackathon (React)</h5>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://wubba.netlify.app/">
@@ -96,7 +96,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
     <!-- Project 3 -->
     <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h3 align="center" style="margin: 0; line-height: 25px;">Anomalie Web App (Next.js)</h3>
+    <h5 align="center" style="margin: 0; line-height: 25px;">Anomalie Web App (Next.js)</h5>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
 <a href="https://anomalie.vercel.app/">
