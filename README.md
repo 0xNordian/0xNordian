@@ -1,14 +1,16 @@
 # Hi there 👋, I'm 0xNordian (Néstor Torres)
 
-I'm a Junior Developer passionate about front-end and back-end technologies, aiming to delve into AI and blockchain in the future.
+Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, and TypeScript, and proficient in frameworks like React, Vue, Next.js, and Spring Boot. Transitioning from an 11-year career in sales and marketing leadership, I am now focused on leveraging these skills in web development, particularly in areas like web3, AI, and blockchain.
 
 ## About Me 📖
 
--   🌱 I’m currently learning **Next.js**, **SpringBoot**, and **TypeScript**.
--   👯 I’m looking to collaborate on **open source projects** and **innovative web applications**.
--   🤔 I’m seeking help with **clean, scalable code** and **advanced JavaScript concepts**.
--   💬 Ask me about **React**, **Vue**, and **web development best practices**.
--   📫 How to reach me: [management@deverso.io](mailto:management@deverso.io)
+- 🌐 **Technical Skills**: Strong command over front-end technologies and frameworks. Actively expanding expertise in modern web development practices.
+- 🚀 **Professional Journey**: Founder of Deverso Labs, specializing in web3 applications. Rich experience in strategic roles at SAE Institute.
+- 👨‍💻 **Current Focus**: Enhancing skills in AI and blockchain technologies, and contributing to cutting-edge projects in these domains.
+- 🤝 **Collaboration**: Keen on collaborating in open-source projects and providing mentorship in web development.
+- 💬 **Let's Connect**: Discuss React, Vue, and innovative web development practices. Reach out at [management@deverso.io](mailto:management@deverso.io) for collaboration or a chat about tech!
+
+
 
 ## My Skill Set 💻
 
