@@ -18,7 +18,7 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
 
 ### Frontend
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
           <td align="center">
@@ -74,7 +74,7 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
 
 ### Backend
 
-<div align="center">  
+<div align="left">  
   <table>
     <tr>
           <td align="center">
@@ -94,7 +94,7 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
 
 ### DevOps
 
-<div align="center">  
+<div align="left">  
   <table>
     <tr>
           <td align="center">
