@@ -115,6 +115,26 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
         <img src="icons/vercel.png" alt="Vercel" height="50"/><br>
         Vercel
       </td>
+                                    <td align="center">
+        <img src="icons/npm.png" alt="NPM" height="50"/><br>
+        npm
+      </td>
+                                          <td align="center">
+        <img src="icons/bun.png" alt="bun" height="50"/><br>
+        bun
+      </td>
+                                                <td align="center">
+        <img src="icons/sonarcloud.png" alt="sonarclound" height="50"/><br>
+        Sonarcloud
+      </td>
+                                                      <td align="center">
+        <img src="icons/nodejs.png" alt="nodejs" height="50"/><br>
+        NodeJs
+      </td>
+                                                            <td align="center">
+        <img src="icons/jira.png" alt="jira" height="50"/><br>
+        Jira
+      </td>
   </table>
 </div>
 
