@@ -116,7 +116,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://circl3.netlify.app/">
-      <img src="./assets/cercle.png" alt="Cercle Web" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      <img src="./assets/circl3.png" alt="Cercle Web" style="width: 100%; height: 100%; object-fit: cover; display: block;">
     </a>
   </div>
   <p align="center" style="height: 25px; text-align: center;">
