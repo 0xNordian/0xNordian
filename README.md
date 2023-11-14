@@ -131,7 +131,7 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
   </div>
   <div style="height: 250px; margin-bottom: 7px">
     <a href="https://doyt.netlify.app/">
-      <img src="./assets/doyt.png" alt="doyt app" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      <img src="./assets/doyt2.png" alt="doyt app" style="width: 100%; height: 100%; object-fit: cover; display: block;">
     </a>
   </div>
   <p align="center" style="height: 25px; text-align: center;">
