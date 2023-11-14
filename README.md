@@ -19,7 +19,23 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
 <div align="center">
   <table>
     <tr>
+          <td align="center">
+        <img src="icons/html-5.png" alt="HTML" height="50"/><br>
+        HTML
+      </td>
+            <td align="center">
+        <img src="icons/css-3.png" alt="ReCSSact" height="50"/><br>
+        CSS
+      </td>
+            <td align="center">
+        <img src="icons/js.png" alt="JavaScripr" height="50"/><br>
+        JavaScript
+      </td>
       <td align="center">
+        <img src="icons/typescript.png" alt="TypeScript" height="50"/><br>
+        TypeScript
+      </td>
+            <td align="center">
         <img src="icons/react.png" alt="React" height="50"/><br>
         React
       </td>
@@ -31,6 +47,22 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
         <img src="icons/nextjs.svg" alt="Next.js" height="50"/><br>
         Next.js
       </td>
+            <td align="center">
+        <img src="icons/redux.png" alt="Redux" height="50"/><br>
+        Redux
+      </td>
+                  <td align="center">
+        <img src="icons/Pinia.png" alt="Pinia" height="50"/><br>
+        Pinia
+      </td>
+                        <td align="center">
+        <img src="icons/vitest.png" alt="Vitest" height="50"/><br>
+        Vitest
+      </td>
+                              <td align="center">
+        <img src="icons/tailwind.png" alt="Tailwind" height="50"/><br>
+        Tailwind
+      </td>
       <!-- Add other cells for more icons here -->
     </tr>
     <!-- Add more rows here if needed -->
@@ -41,24 +73,50 @@ I'm a Junior Developer passionate about front-end and back-end technologies, aim
 ### Backend
 
 <div align="center">  
-<img style="margin: 10px" src="icons/java.svg" alt="Java" height="50"/>
-<img style="margin: 10px" src="icons/spring.svg" alt="Spring" height="50"/>
-<!-- Add other icons here -->
-</div></td><td valign="top" width="33%">
+  <table>
+    <tr>
+          <td align="center">
+        <img src="icons/java.png" alt="Java" height="50"/><br>
+        Java
+      </td>
+            <td align="center">
+        <img src="icons/springboot.png" alt="Spring Boot" height="50"/><br>
+        Spring Boot
+      </td>
+                  <td align="center">
+        <img src="icons/mysql.png" alt="MySQL" height="50"/><br>
+        MySQL
+      </td>
+  </table>
+</div>
 
 ### DevOps
 
 <div align="center">  
-<img style="margin: 10px" src="icons/git.svg" alt="Git" height="50"/>
-<!-- Add other icons here -->
-</div></td></tr></table>
-
-<!-- ## Latest Blog Posts 📚 -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Your latest blog post title](link-to-post)
-- [Another blog post title](link-to-post) -->
-<!-- BLOG-POST-LIST:END -->
+  <table>
+    <tr>
+          <td align="center">
+        <img src="icons/git.png" alt="Git" height="50"/><br>
+        Git
+      </td>
+            <td align="center">
+        <img src="icons/github.png" alt="Github" height="50"/><br>
+        Github
+      </td>
+                  <td align="center">
+        <img src="icons/gitlab.png" alt="Gitlab" height="50"/><br>
+        Gitlab
+      </td>
+                        <td align="center">
+        <img src="icons/netlify.png" alt="Netlify" height="50"/><br>
+        Netlify
+      </td>
+                              <td align="center">
+        <img src="icons/vercel.png" alt="Vercel" height="50"/><br>
+        Vercel
+      </td>
+  </table>
+</div>
 
 ## Project Gallery 🌟
 
