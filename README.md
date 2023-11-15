@@ -221,7 +221,7 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
     <!-- Project 6 -->
     <td width="33%" valign="top" style="height: 300px;">
   <div style="height: 25px; margin-bottom: 7px">
-    <h5 align="center" style="margin: 0; line-height: 25px;">Anomalie Web App</h5>
+    <h5 align="center" style="margin: 0; line-height: 25px;">TrakEx Web App (React)</h5>
   </div>
   <div style="height: 250px; margin-bottom: 7px">
 <a href="https://trakex.netlify.app/">
