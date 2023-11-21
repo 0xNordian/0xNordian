@@ -89,7 +89,7 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
   <img width="12" />
   <img title="Jira" src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
-  <img title="adobe Photoshop" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
+  <img title="Adobe Photoshop" src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img title="Adobe Illustrator" src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
