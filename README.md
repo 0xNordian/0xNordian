@@ -1,6 +1,6 @@
 # Hi there 👋, I'm 0xNordian (Néstor Torres)
 
-Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, and TypeScript, and proficient in frameworks like React, Vue, Next.js, and Spring Boot. Transitioning from an 11-year career in sales and marketing leadership, I am now focused on leveraging these skills in web development, particularly in areas like web3, AI, and blockchain.
+Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, and TypeScript, and proficient in frameworks like React, Vue, Angular, Next.js, and Spring Boot. Transitioning from an 11-year career in sales and marketing leadership, I am now focused on leveraging these skills in web development, particularly in areas like web3, AI, and blockchain.
 
 ## About Me 📖
 
@@ -12,133 +12,125 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
 
 
 
-## My Skill Set 💻
+<h2 align="left">My Skill Set 💻</h2>
 
-<!-- <table><tr><td valign="top" width="33%"> -->
+###
 
-### Frontend
+<h3 align="left">Frontend</h3>
+
+###
 
 <div align="left">
-  <table>
-    <tr>
-          <td align="center">
-        <img src="icons/html-5.png" alt="HTML" height="50"/><br>
-        HTML
-      </td>
-            <td align="center">
-        <img src="icons/css-3.png" alt="ReCSSact" height="50"/><br>
-        CSS
-      </td>
-            <td align="center">
-        <img src="icons/js.png" alt="JavaScripr" height="50"/><br>
-        JavaScript
-      </td>
-      <td align="center">
-        <img src="icons/typescript.png" alt="TypeScript" height="50"/><br>
-        TypeScript
-      </td>
-            <td align="center">
-        <img src="icons/react.png" alt="React" height="50"/><br>
-        React
-      </td>
-      <td align="center">
-        <img src="icons/vue.png" alt="Vue.js" height="50"/><br>
-        Vue.js
-      </td>
-      <td align="center">
-        <img src="icons/nextjs.svg" alt="Next.js" height="50"/><br>
-        Next.js
-      </td>
-            <td align="center">
-        <img src="icons/redux.png" alt="Redux" height="50"/><br>
-        Redux
-      </td>
-                  <td align="center">
-        <img src="icons/Pinia.png" alt="Pinia" height="50"/><br>
-        Pinia
-      </td>
-                        <td align="center">
-        <img src="icons/vitest.png" alt="Vitest" height="50"/><br>
-        Vitest
-      </td>
-                              <td align="center">
-        <img src="icons/tailwind.png" alt="Tailwind" height="50"/><br>
-        Tailwind
-      </td>
-      <!-- Add other cells for more icons here -->
-    </tr>
-    <!-- Add more rows here if needed -->
-  </table>
-</div>
-</td><td valign="top" width="33%">
-
-### Backend
-
-<div align="left">  
-  <table>
-    <tr>
-          <td align="center">
-        <img src="icons/java.png" alt="Java" height="50"/><br>
-        Java
-      </td>
-            <td align="center">
-        <img src="icons/springboot.png" alt="Spring Boot" height="50"/><br>
-        Spring Boot
-      </td>
-                  <td align="center">
-        <img src="icons/mysql.png" alt="MySQL" height="50"/><br>
-        MySQL
-      </td>
-  </table>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
 </div>
 
-### Others
+</br>
 
-<div align="left">  
-  <table>
-    <tr>
-          <td align="center">
-        <img src="icons/git.png" alt="Git" height="50"/><br>
-        Git
-      </td>
-            <td align="center">
-        <img src="icons/github.png" alt="Github" height="50"/><br>
-        Github
-      </td>
-                  <td align="center">
-        <img src="icons/gitlab.png" alt="Gitlab" height="50"/><br>
-        Gitlab
-      </td>
-                        <td align="center">
-        <img src="icons/netlify.png" alt="Netlify" height="50"/><br>
-        Netlify
-      </td>
-                              <td align="center">
-        <img src="icons/vercel.png" alt="Vercel" height="50"/><br>
-        Vercel
-      </td>
-                                    <td align="center">
-        <img src="icons/npm.png" alt="NPM" height="50"/><br>
-        npm
-      </td>
-                                          <td align="center">
-        <img src="icons/bun.png" alt="bun" height="50"/><br>
-        bun
-      </td>
-                                                <td align="center">
-        <img src="icons/sonarcloud.png" alt="sonarclound" height="50"/><br>
-        Sonarcloud
-      </td>
-                                                      <td align="center">
-        <img src="icons/nodejs.png" alt="nodejs" height="50"/><br>
-        NodeJs
-      </td>
-                                                            <td align="center">
-        <img src="icons/jira.png" alt="jira" height="50"/><br>
-        Jira
-      </td>
-  </table>
+<h3 align="left">Backend</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
 </div>
+
+</br>
+
+<h3 align="left">Others</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" height="40" alt="salesforce logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+</br>
+</br>
+
+<h2 align="left">Socials 🌐</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/torres-nestor/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/0xNordian" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+</br>
 
 ## Project Gallery 🌟
 
@@ -234,13 +226,7 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
   </p>
   </tr>
 
-  <!-- Add more rows for additional projects -->
 </table>
-
-[![](https://visitcount.itsvg.in/api?id=0xnordian&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/torres-nestor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xNordian) 
 
 ## Main Project 🌐
 
@@ -248,49 +234,26 @@ Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, a
 
 ---
 
-<table>
-  <tr>
-    <!-- Project 1 -->
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xnordian&theme=dark&hide_border=false" alt="GitHub Readme Streak Stats" style="max-width: 100%;">
-    </td>
-    <!-- Project 2 -->
-    <td align="center" width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNordian&layout=compact&show_icons=true&theme=radical" alt="GitHub Readme Stats" style="max-width: 100%;">
-    </td>
-  </tr>
-</table>
+###
 
+<h2 align="left">Stats 📊</h2>
 
+###
+[![](https://visitcount.itsvg.in/api?id=0xnordian&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xnordian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=0xnordian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Random Dev Quote ✍️
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ->
 
 ---
 
 <sub>Last updated by [oxNordian](https://github.com/0xNordian) on `13/11/2023`.</sub>
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xNordian&show_icons=true&theme=radical) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNordian&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNordian&theme=radical) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xNordian&repo=rickyandmorty-j2d-hackaton)](https://github.com/0xNordian/rickyandmorty-j2d-hackaton) -->
-
-
-
-<!-- 
-1. # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xnordian&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xnordian&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xnordian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xnordian&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
--->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
