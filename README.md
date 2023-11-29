@@ -1,6 +1,6 @@
 # Hi there 👋, I'm 0xNordian (Néstor Torres)
 
-Dynamic front-end developer with a strong foundation in HTML, CSS, JavaScript, and TypeScript, and proficient in frameworks like React, Vue, Angular, Next.js, and Spring Boot. Transitioning from an 11-year career in sales and marketing leadership, I am now focused on leveraging these skills in web development, particularly in areas like web3, AI, and blockchain.
++3 years experience as a front-end developer with a strong foundation in HTML, CSS, JavaScript, and TypeScript, and proficient in frameworks like React, Vue, Angular, Next.js, and Spring Boot. Transitioning from an 11-year career in sales and marketing leadership, I am now focused on leveraging these skills in web development, particularly in areas like web3, AI, and blockchain.
 
 ## About Me 📖
 
